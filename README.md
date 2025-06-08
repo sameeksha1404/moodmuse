@@ -32,3 +32,9 @@
 5. Download the track if you like it! 🎶
 
 ---
+🛠 Tech Stack
+Python 3
+MIDIUtil
+Gradio
+Timidity (for audio conversion)
+AWS EC2
