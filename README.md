@@ -39,3 +39,6 @@
 - Gradio
 - Timidity (for audio conversion)
 - AWS EC2
+---
+## Project Skeleton
+![WhatsApp Image 2025-06-08 at 19 24 47_fbdbe752](https://github.com/user-attachments/assets/4ea3fedb-3ec1-4aef-b73f-ff2d753c9e79)
